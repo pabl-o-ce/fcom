@@ -113,6 +113,10 @@ fcom combine /path/to/your/folder --output combined_output.md --mode markdown --
 fcom combine /path/to/your/folder --output custom_output.txt --mode custom --custom-output-template /path/to/output_template.txt --custom-file-template /path/to/file_template.txt
 ```
 
+## Credits and Inspiration
+
+This project was inspired by [Maximilian-Winter's file_combiner](https://github.com/Maximilian-Winter/file_combiner). We appreciate their work and the ideas it provided for this implementation.
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.

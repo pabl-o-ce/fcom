@@ -1,7 +1,7 @@
 [package]
 name = "fcom"
 authors = ["Pablo Carrera <pabloce@poscye.com>"]
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 description = "A Rust CLI tool that processes folders and files, combining their contents into a single output file."
 license = "MIT"

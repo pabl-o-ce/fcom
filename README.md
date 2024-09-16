@@ -21,7 +21,7 @@ fcom (short for file_combiner) is a versatile Rust CLI tool designed to process 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/fcom.git
+   git clone https://github.com/pabl-o-ce/fcom.git
    ```
 
 2. Navigate to the project directory:
